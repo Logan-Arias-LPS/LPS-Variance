@@ -1,0 +1,14 @@
+{
+  "pages": [
+	{
+	  "htmlID": "navLPSVariance",
+	  "title": "LPS Variance &tilde;",
+	  "version": "0.02",
+	  "contextType": "student",
+	  "requiredContext": "student",
+	  "sortOrder": 500,
+	  "pageURL": "/admin/students/variance.html?frn=~(studentfrn)",
+	  "parentHTMLID": "navStudentProfileMore"
+	}
+  ]
+}
