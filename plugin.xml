@@ -4,7 +4,7 @@
         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
         xsi:schemaLocation='http://plugin.powerschool.pearson.com plugin.xsd'
         name="LPS Variance"
-        version="0.01"
+        version="0.02"
         description="add Variance page">
     <publisher name="Logan Arias">
     <contact email="Logan.Arias@lawrence.k12.ma.us"/>
